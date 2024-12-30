@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
+I'm **Sanchit**, a developer passionate about **Java, ML, and Android Development**.
 
-<!--
-**sanchit-dhir/sanchit-dhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+- 🌟 Currently learning: Machine Learning with Python
+- 💻 Building: A virtual chemistry lab using Android
+- 🌍 Collaborating on: Open-source ML projects
+- 📫 Contact: [LinkedIn](https://linkedin.com/in/sanchit-dhir) | [Portfolio](https://sanchit-dhir.com)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%3DDC84.svg?style=flat&logo=android&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- **[Sudoku Solver](https://github.com/sanchit-dhir/sudoku-solver):**  
+  A web app to solve Sudoku puzzles using Java.
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchit-dhir&show_icons=true&theme=radical)
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
