@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm **Sanchit**, a developer passionate about **Java, ML, and Android Development**.
+I'm **Sanchit**, a developer passionate about **ML, Data Science and AI**.
 
 ## 💡 About Me
 - 🌟 Currently learning: Machine Learning with Python
