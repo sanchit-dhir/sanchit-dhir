@@ -16,10 +16,8 @@ I'm **Sanchit**, a developer passionate about **ML, Data Science and AI**.
   A web app to solve Sudoku puzzles using Java.
 
 ## 📊 GitHub Stats
-<p align="center">
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchit-dhir&show_icons=true&theme=radical)
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ![snake gif](https://github.com/sanchit-dhir/sanchit-dhir/blob/output/github-snake-dark.svg)
-</p>
