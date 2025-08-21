@@ -1,23 +1,20 @@
-# Hi there 👋
-I'm **Sanchit**, a developer passionate about **ML, Data Science and AI**.
+<h1 align="center">Hi 👋, I'm Sanchit Dhir</h1>
+<h3 align="center">Hi, I'm Sanchit Dhir, a second-year Computer Science major diving deep into Machine Learning, Game Development with Unity, and Web3 technologies. Passionate about building intelligent systems, immersive games, and decentralized apps. Let's connect and collaborate on innovative projects! 🚀</h3>
 
-## 💡 About Me
-- 🌟 Currently learning: Machine Learning with Python
-- 💻 Building: A virtual chemistry lab using Android
-- 🌍 Collaborating on: Open-source ML projects
-- 📫 Contact: [LinkedIn](https://linkedin.com/in/sanchit-dhir) | [Portfolio](https://sanchit-dhir.com)
+- 🌱 I’m currently learning **Machine Learning**
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%3DDC84.svg?style=flat&logo=android&logoColor=white)
+- 💬 Ask me about **Unity, Blockchain**
 
-## 🌟 Projects
-- **[Sudoku Solver](https://github.com/sanchit-dhir/sudoku-solver):**  
-  A web app to solve Sudoku puzzles using Java.
+- 📫 How to reach me **theriyalsanchit@gmail.com**
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchit-dhir&show_icons=true&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/sanchit_dhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchit_dhir" height="30" width="40" /></a>
+</p>
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchit-dhir&" alt="sanchit-dhir" /></p>
 
 ![snake gif](https://github.com/sanchit-dhir/sanchit-dhir/blob/output/github-snake-dark.svg)
